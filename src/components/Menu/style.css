@@ -1,0 +1,11 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.Menu {
+    width: 100%;
+    padding:10px;
+    background: #4d64ab;
+}
